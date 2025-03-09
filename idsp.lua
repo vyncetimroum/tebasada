@@ -106,4 +106,5 @@ return {
   6175045057, -- DUGGUPRINCE6
   4907130390, -- dumbmastermind
   1315597638, -- cayi_23
+  1809022173, -- purple_pegases
 }
