@@ -16,4 +16,7 @@ return {
   3857842072, -- Kwabex106
   1113159433, -- eheheuehwe
   7896392046, -- eu_XxsavagexX
+  5381083787, -- XavierIsMineBro
+  5613869843, -- Master_Reb1rth
+  2696693856, -- Diacutiepie89
 }
