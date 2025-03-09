@@ -19,4 +19,5 @@ return {
   5381083787, -- XavierIsMineBro
   5613869843, -- Master_Reb1rth
   2696693856, -- Diacutiepie89
+  3435464474, -- Renagade7175
 }
