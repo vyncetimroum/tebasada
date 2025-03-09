@@ -12,4 +12,6 @@ return {
   7385645405, -- dun_alt5
   643863047, -- SamrantaOMG
   1677614105, -- RHAM3K
+  5774313455, -- NazelAlt
+  3857842072, -- Kwabex106
 }
