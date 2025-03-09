@@ -14,4 +14,6 @@ return {
   1677614105, -- RHAM3K
   5774313455, -- NazelAlt
   3857842072, -- Kwabex106
+  1113159433, -- eheheuehwe
+  7896392046, -- eu_XxsavagexX
 }
