@@ -108,4 +108,5 @@ return {
   1315597638, -- cayi_23
   1809022173, -- purple_pegases
   4907130390, -- dumbmastermind
+  5325923850, -- EMPPUPEMPPU230
 }
