@@ -109,4 +109,5 @@ return {
   1809022173, -- purple_pegases
   4907130390, -- dumbmastermind
   5325923850, -- EMPPUPEMPPU230
+  2459718136, -- Demiclout
 }
