@@ -27,4 +27,5 @@ return {
    1437874987, -- chaddd010
    8027319564, -- Cvx7ll
   7914573281, -- ERV_EchoUi
+  7980481995, -- BeginnerInLegends 
 }
