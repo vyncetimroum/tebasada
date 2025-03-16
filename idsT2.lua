@@ -161,4 +161,6 @@ return {
   7408883457, -- LMC_Glitch
   7893624238, -- ES_LordMaori
   4866170364, -- tr1ckst11113
+  7069223894, -- OG_ImNotHim2 
+  7069226671, -- OG_ImNotHim
 }
