@@ -115,4 +115,5 @@ return {
   7934421953, -- Timmytimmy610
   7833769153, -- lan_lan0606
   5209066033, -- MoIotox
+  5827692220, -- legendSpeed2024
 }
