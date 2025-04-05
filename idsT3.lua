@@ -36,4 +36,9 @@ return {
   7748739499, -- KymJyc725
 7098684124, -- BlackRoses1261
 3686637454, -- Headballer2007
+  4396616182, -- Fan_deleder211
+  4160491056, -- Jdidjdjdkdq
+  8259705856, -- Erv_altpublix2
+  7653072419, -- edsboi23
+  7684995893, -- Lemiwe23
 }
